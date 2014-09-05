@@ -17,7 +17,7 @@ We break the process of programming in Java into three steps:
 - **Run (or execute)** it by typing "_java MyProgram_" in the terminal window.
 
 ------------
- ### Errors
+### Errors
 ------------
 
 Most errors are easily fixed by carefully examining the program as we create it, in just the same way as we fix spelling and grammatical errors when we type an e-mail message.
