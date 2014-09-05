@@ -41,7 +41,7 @@ We can put several, though we normally use only a few. We refer to the first one
 ### class file
 ------------------
 
-It's a binary file (sequence of 0s and 1s). If you are using Unix or OS X, you can examine its contents by typing od -x HelloWorld.class at the command prompt. This displays the results in hexadecimal (base 16). In deference to Java's name, t_he first word of every .class file is cafe babe_.
+It's a binary file (sequence of 0s and 1s). If you are using Unix or OS X, you can examine its contents by typing od -x HelloWorld.class at the command prompt. This displays the results in hexadecimal (base 16). In deference to Java's name,_the first word of every .class file is cafe babe._
 
 0000000 &nbsp;**cafe babe** &nbsp; 0000 &nbsp;  002e &nbsp;  001d &nbsp;  0a00 &nbsp;  0600  &nbsp; 0f09 <br>
 0000020 &nbsp;  0010 &nbsp;  0011 &nbsp;  0800 &nbsp;  120a &nbsp;  0013  &nbsp; 0014 &nbsp;  0700 &nbsp; 1507	<br>
